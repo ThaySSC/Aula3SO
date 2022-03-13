@@ -1,4 +1,4 @@
-package Aula3;
+package Aula3_Exerc1;
 
 import javax.swing.JOptionPane;
 
